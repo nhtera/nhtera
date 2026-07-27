@@ -41,8 +41,18 @@
 ### — Frontend & Cloud
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,aws,cloudflare,docker" />
 
-### — AI-Native & Tools
-<img src="https://skillicons.dev/icons?i=openai,git,github,vscode,linux,figma" />
+### — AI-Native
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-D4582E?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-1C1916?style=for-the-badge&logoColor=white" />
+</p>
+
+### — Tools & Others
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
 
 </div>
 
@@ -66,8 +76,10 @@ Native, single-binary tools I design and build solo:
 ## ✨ GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nhtera&show_icons=true&hide_border=true&title_color=D4582E&icon_color=D4582E&text_color=808080&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhtera&layout=compact&hide_border=true&title_color=D4582E&text_color=808080&bg_color=00000000&langs_count=8" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhtera&theme=github_dark" />
+  <br />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nhtera&theme=github_dark" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nhtera&theme=github_dark" />
 </div>
 
 ---
