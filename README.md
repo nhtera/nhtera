@@ -22,7 +22,7 @@
 - 🌱 Living deep in **Rust, Go, and AI-native workflows** — Claude Code, MCP, RAG, agent orchestration
 - 💬 Ask me about **Rust, Go, TypeScript, multi-agent tooling, and shipping solo**
 - 🤝 Open to **senior/staff engineering roles and select freelance** — especially AI-native product teams
-- 📫 Reach me at **[tn@erai.dev](mailto:tn@erai.dev)** · 🌐 **[erai.dev](https://erai.dev)** · 📍 Hanoi, Vietnam
+- 📫 Reach me at **[tn@erai.dev](mailto:tn@erai.dev)** · 🌐 **[erai.dev](https://erai.dev)**
 
 > "AI writes most of the code now — the job that's left is deciding what's actually correct." 🧭
 
